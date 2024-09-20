@@ -26,18 +26,24 @@
   </li>
   <li>
     <b>qiskit</b>: El framework principal para programación cuántica
-  </l>
-
-  
+  </li>
+  <li>
+    <b>qiskit-aer:</b> Para simulaciones de circuitos cuánticos    
+  </li>
+  <li>
+    <b>qiskit-algorithms:</b> Implementaciones de algoritmos cuánticos
+  </li>
+  <li>
+    <b>qiskit-ibm-runtime:</b>  Para ejecutar en hardware cuántico real de IBM
+  </li>
+  <li>
+    <b>qiskit-machine-learning: </b> Para aplicaciones de aprendizaje automático cuántico
+  </li>
+    <li>
+    <b>qiskit-nature:</b>  Para aplicaciones en química cuántica y física
+  </li>  
 </ol>
 
-
-
-qiskit-aer: Para simulaciones de circuitos cuánticos
-qiskit-algorithms: Implementaciones de algoritmos cuánticos
-qiskit-ibm-runtime: Para ejecutar en hardware cuántico real de IBM
-qiskit-machine-learning: Para aplicaciones de aprendizaje automático cuántico
-qiskit-nature: Para aplicaciones en química cuántica y física
 <p>
 Dependiendo de tu proyecto específico, podrías necesitar importar otros módulos listados en el archivo, pero estos son los más relevantes para comenzar con programación cuántica usando Qiskit.  
 </p>
